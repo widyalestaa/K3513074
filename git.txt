@@ -1,0 +1,23 @@
+konfigurasi user dan email
+git config --global user.name "widyalestafuri"
+git config --global user.email widya.lesta30@student.uns.ac.id
+
+inisialisasi
+git init 
+
+menambahkan semua file yg ada di bootstrap, upload ke repository
+git add *
+
+buat commit
+git commit -m "versi 2.3.2"
+
+git remot add origin  https://github.com/widyalestaa/K3513074.git
+
+git pull origin master
+
+mengirim file ke repository
+git push origin master
+==============================================
+pass : widyalesta1234
+ https://github.com/widyalestaa/K3513074.git
+
